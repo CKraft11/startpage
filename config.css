@@ -1,0 +1,17 @@
+:root {
+    --bg: #2B2A33;
+    --text: #D8DEE9;
+    --extra: hsl(222deg 14% 17%);
+    --random: hsl(222deg 14% 25%);
+    
+    --random-color: #fff;
+    
+    --grey: #D8DEE9;
+    --ice: #4C566A;
+    --red: #BF616A;
+    --orange: #D08770;
+    --green: #A3BE8C;
+    --blue: #5E81AC;
+    --purple: #B48EAD;
+    --yellow: #EBCB8B;
+}
