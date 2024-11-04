@@ -82,19 +82,18 @@ var links_var = [
     
     ],
     [
-        ['github', 'https://github.com/CKraft11', 'false'],
-        ['tailscale', 'https://login.tailscale.com/admin/machines', 'false'],
-        ['linkedin', 'https://linkedin.com', 'false'],
-        ['dccu', 'https://my.deereemployeescu.com/login', 'false'],
-        ['fidelity', 'https://www.fidelity.com', 'false'],
-    
+        ['inbox', 'https://inbox.google.com', 'false'],
+        ['drive', 'https://drive.google.com', 'false'],
+        ['outlook', 'https://outlook.office.com/mail/', 'false'],
+        ['okta', 'https://iastate.okta.com/app/UserHome', 'false'],
+        ['canvas', 'https://canvas.iastate.edu/?login_success=1', 'false'],
     ],
     [
-        ['openmediavault', 'http://helium:8282', 'false'],
-        ['ghost blog', 'http://helium:2368/ghost', 'false'],
-        ['desktop', 'http://helium:8090', 'false'],
-        ['portainer', 'http://helium:9000', 'false'],
-        ['router', 'https://10.0.0.1', 'false'],
+        ['inbox', 'https://inbox.google.com', 'false'],
+        ['drive', 'https://drive.google.com', 'false'],
+        ['outlook', 'https://outlook.office.com/mail/', 'false'],
+        ['okta', 'https://iastate.okta.com/app/UserHome', 'false'],
+        ['canvas', 'https://canvas.iastate.edu/?login_success=1', 'false'],
     
     ],
 ];
