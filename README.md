@@ -2,7 +2,7 @@
 
 A modern, customizable startpage featuring news updates, weather information, stock tracking, and organized links with status monitoring capabilities.
 
-![startpage.png]
+![Startpage Screenshot](startpage.png)
 
 ## Features
 
