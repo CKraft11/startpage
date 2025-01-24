@@ -85,7 +85,7 @@ var links_var = [
         ['inbox', 'https://inbox.google.com', 'false'],
         ['drive', 'https://drive.google.com', 'false'],
         ['outlook', 'https://outlook.office.com/mail/', 'false'],
-        ['okta', 'https://iastate.okta.com/app/UserHome', 'false'],
+        ['my apps', 'https://myapps.microsoft.com/', 'false'],
         ['canvas', 'https://canvas.iastate.edu/?login_success=1', 'false'],
     ],
     [
